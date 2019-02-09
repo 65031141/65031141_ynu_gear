@@ -1,5 +1,7 @@
 #!/bin/bash
 
+rm -rf ./*
+
 git clone https://github.com/65031141/65031141.github.io.git
 cd 65031141.github.io
 git checkout gh-pages
