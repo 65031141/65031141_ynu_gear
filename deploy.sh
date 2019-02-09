@@ -1,6 +1,6 @@
 #!/bin/bash
 
-rm -rf ./*
+rm -rf html
 
 git clone https://github.com/65031141/65031141.github.io.git
 cd 65031141.github.io
