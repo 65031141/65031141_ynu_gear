@@ -19,6 +19,8 @@ do
   rm -rf html/.git
   rm -rf html/.circleci
   rm -rf html/.gitignore
+  
+  chmod -R 755 html
 
   echo "updated at $(date)"
 
