@@ -1,7 +1,9 @@
 #!/bin/bash
 
-# get into working dir
-cd /usr/share/nginx/
+# get into working dir of gear
+cd /root/
+
+mkdir -p html
 
 # clear repo dir if exists
 rm -rf 65031141.github.io
