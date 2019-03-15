@@ -41,5 +41,5 @@ do
   echo "updated at $(date)"
 
   # wait for 1 second
-  sleep 1
+  sleep 30
 done
